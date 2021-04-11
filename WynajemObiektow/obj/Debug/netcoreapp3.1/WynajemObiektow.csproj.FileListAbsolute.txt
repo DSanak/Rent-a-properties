@@ -1,0 +1,13 @@
+D:\Projekty Visual Studio\WynajemObiektow\obj\Debug\netcoreapp3.1\WynajemObiektow.AssemblyInfoInputs.cache
+D:\Projekty Visual Studio\WynajemObiektow\obj\Debug\netcoreapp3.1\WynajemObiektow.AssemblyInfo.cs
+D:\Projekty Visual Studio\WynajemObiektow\obj\Debug\netcoreapp3.1\WynajemObiektow.csproj.CoreCompileInputs.cache
+D:\Projekty Visual Studio\WynajemObiektow\obj\Debug\netcoreapp3.1\WynajemObiektow.csprojAssemblyReference.cache
+D:\Projekty Visual Studio\WynajemObiektow\bin\Debug\netcoreapp3.1\WynajemObiektow.exe
+D:\Projekty Visual Studio\WynajemObiektow\bin\Debug\netcoreapp3.1\WynajemObiektow.deps.json
+D:\Projekty Visual Studio\WynajemObiektow\bin\Debug\netcoreapp3.1\WynajemObiektow.runtimeconfig.json
+D:\Projekty Visual Studio\WynajemObiektow\bin\Debug\netcoreapp3.1\WynajemObiektow.runtimeconfig.dev.json
+D:\Projekty Visual Studio\WynajemObiektow\bin\Debug\netcoreapp3.1\WynajemObiektow.dll
+D:\Projekty Visual Studio\WynajemObiektow\bin\Debug\netcoreapp3.1\WynajemObiektow.pdb
+D:\Projekty Visual Studio\WynajemObiektow\obj\Debug\netcoreapp3.1\WynajemObiektow.dll
+D:\Projekty Visual Studio\WynajemObiektow\obj\Debug\netcoreapp3.1\WynajemObiektow.pdb
+D:\Projekty Visual Studio\WynajemObiektow\obj\Debug\netcoreapp3.1\WynajemObiektow.genruntimeconfig.cache
